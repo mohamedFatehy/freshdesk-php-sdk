@@ -1,5 +1,5 @@
 {
-    "name": "mohamedFatehy/freshdesk-php-sdk",
+    "name": "mohamed-fathy/freshdesk-php-sdk",
     "description": "PHP SDK for the Freshdesk API (v2)",
     "type": "library",
     "homepage": "https://github.com/mohamedFatehy/freshdesk-php-sdk",
